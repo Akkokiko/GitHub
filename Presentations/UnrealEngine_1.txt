@@ -1,0 +1,17 @@
+
+Spis treści: 
+_______________________
+1. Czym jest Unreal Engine
+2. Interface
+3. Zabawa z kodowaniem
+________________________
+
+! Po tym kursie nie stanieniecie się  supa hipa game dev.
+Unreal ma wiele funkcji i zachęcam do zapoznania się z nimi.
+
+
+
+Czym jest Unreal Engine
+
+Unreal Engine to (w najprostszych słowach) - program
+udostępniony przez
